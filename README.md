@@ -1,6 +1,8 @@
 <!-- <div align="center"> -->
 <img src="https://github.com/archlinux/archinstall/raw/master/docs/logo.png" alt="drawing" width="200"/>
 
+Hello, world
+
 <!-- </div> -->
 # Arch Installer
 [![Lint Python and Find Syntax Errors](https://github.com/archlinux/archinstall/actions/workflows/flake8.yaml/badge.svg)](https://github.com/archlinux/archinstall/actions/workflows/flake8.yaml)
